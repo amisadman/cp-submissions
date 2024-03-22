@@ -1,4 +1,21 @@
 {
+  "CF252807660": {
+    "contest_id": 1941,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1941\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Rudolf and the Ticket",
+    "problem_url": "https://codeforces.com/contest/1941/problem/A",
+    "submission_id": "CF252807660",
+    "submission_url": "https://codeforces.com/contest/1941/submission/252807660",
+    "tags": [
+      "brute force",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Mar/22/2024 22:49"
+  },
   "CF253605512": {
     "contest_id": 1926,
     "language": "C++20 (GCC 13-64)",

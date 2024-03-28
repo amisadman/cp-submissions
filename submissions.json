@@ -1,4 +1,20 @@
 {
+  "CF253668171": {
+    "contest_id": 1950,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces\\1950\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Stair, Peak, or Neither?",
+    "problem_url": "https://codeforces.com/contest/1950/problem/A",
+    "submission_id": "CF253668171",
+    "submission_url": "https://codeforces.com/contest/1950/submission/253668171",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Mar/28/2024 20:51"
+  },
   "CF253867791": {
     "contest_id": 1950,
     "language": "PyPy 3-64",

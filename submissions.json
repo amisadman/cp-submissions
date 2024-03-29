@@ -1,4 +1,21 @@
 {
+  "CF253867791": {
+    "contest_id": 1950,
+    "language": "PyPy 3-64",
+    "path": "codeforces\\1950\\C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Clock Conversion",
+    "problem_url": "https://codeforces.com/contest/1950/problem/C",
+    "submission_id": "CF253867791",
+    "submission_url": "https://codeforces.com/contest/1950/submission/253867791",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Mar/29/2024 06:18"
+  },
   "CF254650444": {
     "contest_id": 1952,
     "language": "C++20 (GCC 13-64)",

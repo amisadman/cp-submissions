@@ -1,4 +1,21 @@
 {
+  "CF261890358": {
+    "contest_id": 1974,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces\\1974\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Phone Desktop",
+    "problem_url": "https://codeforces.com/contest/1974/problem/A",
+    "submission_id": "CF261890358",
+    "submission_url": "https://codeforces.com/contest/1974/submission/261890358",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/20/2024 22:22"
+  },
   "CF262156347": {
     "contest_id": 1971,
     "language": "C++20 (GCC 13-64)",

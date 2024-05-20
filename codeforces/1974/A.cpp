@@ -5,32 +5,39 @@ using ll = long long;
 
 void solve()
 {
-    int x, y, n = 0, rem;
+    int x, y;
     cin >> x >> y;
-    if (x > 0 || y >= 1)
+    int n = 0;
+    if(x >  0 || y >= 1)
     {
         n = 1;
     }
-    if (y >= 1)
+    if(y >= 1)
     {
-        n = ceil(float(y) / 2);
+        n = ceil(float(y)/2);
+        //cout << "n in ceil "<< n<<endl;
     }
-
-    rem = (n * 15) - (y * 4);
-    if (x > rem)
-    {
-        while (x > 0)
+    
+        int rem = (n * 15) - (y * 4);
+       // cout << "rem "<< rem << endl;
+        if (x > rem)
         {
-            x -= rem;
-            rem = 0;
-            if (x > rem)
+            while (x > 0)
             {
+                //cout << "n "<< n<<" rem "<<rem<<" x "<<x<< endl;
+                x -= rem;
+                rem = 0;
+                if(x > rem)
+                {
                 n++;
-                rem = 15;
+                rem = 15;   
+                }
+
+                
             }
         }
-    }
-    cout << n << endl;
+            cout << n << endl;
+
 }
 int32_t main()
 {

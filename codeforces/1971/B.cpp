@@ -5,13 +5,15 @@ using ll = long long;
 
 void solve()
 {
-	string s;cin >> s;
+	string s,copy;cin >> s;
+	copy = s;
 	bool difrnt = false;
 	for (int i = 0; i < s.length(); ++i)
 	{
-		if(s[i] != s[0])
+		swap(s[0],s[i]);
+		if(copy != s)
 		{
-			swap(s[0],s[i]);
+			//cout << difrnt << endl;
 			difrnt = true;
 			break;
 		}

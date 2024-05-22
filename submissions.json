@@ -1,4 +1,21 @@
 {
+  "CF262156587": {
+    "contest_id": 1971,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces\\1971\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Different String",
+    "problem_url": "https://codeforces.com/contest/1971/problem/B",
+    "submission_id": "CF262156587",
+    "submission_url": "https://codeforces.com/contest/1971/submission/262156587",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "May/22/2024 20:16"
+  },
   "CF262695105": {
     "contest_id": 282,
     "language": "C++20 (GCC 13-64)",

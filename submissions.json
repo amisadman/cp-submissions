@@ -1,4 +1,20 @@
 {
+  "CF264093862": {
+    "contest_id": 1980,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces\\1980\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Problem Generator",
+    "problem_url": "https://codeforces.com/contest/1980/problem/A",
+    "submission_id": "CF264093862",
+    "submission_url": "https://codeforces.com/contest/1980/submission/264093862",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jun/04/2024 12:57"
+  },
   "CF265261838": {
     "contest_id": 1985,
     "language": "C++20 (GCC 13-64)",

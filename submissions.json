@@ -1,0 +1,19 @@
+{
+  "CF265272678": {
+    "contest_id": 1985,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces\\1985\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Maximum Multiple Sum",
+    "problem_url": "https://codeforces.com/contest/1985/problem/B",
+    "submission_id": "CF265272678",
+    "submission_url": "https://codeforces.com/contest/1985/submission/265272678",
+    "tags": [
+      "brute force",
+      "math",
+      "number theory"
+    ],
+    "timestamp": "Jun/11/2024 20:59"
+  }
+}

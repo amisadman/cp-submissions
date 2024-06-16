@@ -369,6 +369,24 @@
     ],
     "timestamp": "Jun/15/2024 13:21"
   },
+  "CF265999129": {
+    "contest_id": 1978,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces\\1978\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Alice and Books",
+    "problem_url": "https://codeforces.com/contest/1978/problem/A",
+    "submission_id": "CF265999129",
+    "submission_url": "https://codeforces.com/contest/1978/submission/265999129",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Jun/16/2024 15:34"
+  },
   "CF267947504": {
     "contest_id": 1989,
     "language": "C++20 (GCC 13-64)",

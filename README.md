@@ -12,9 +12,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-23 | [A - Strange Splitting](https://codeforces.com/contest/1984/problem/A) | [C++20 (GCC 13-64)](./codeforces/1984/A.cpp) | `constructive algorithms` `*800` | Jun/29/2024 13:51 | 
-22 | [A - X Axis](https://codeforces.com/contest/1986/problem/A) | [C++20 (GCC 13-64)](./codeforces/1986/A.cpp) | `brute force` `geometry` `math` `sortings` `*800` | Jun/29/2024 11:24 | 
-21 | [A - Catch the Coin](https://codeforces.com/contest/1989/problem/A) | [C++20 (GCC 13-64)](./codeforces/1989/A.cpp) | `fft` `implementation` | Jun/29/2024 11:09 | 
+24 | [A - Strange Splitting](https://codeforces.com/contest/1984/problem/A) | [C++20 (GCC 13-64)](./codeforces/1984/A.cpp) | `constructive algorithms` `*800` | Jun/29/2024 13:51 | 
+23 | [A - X Axis](https://codeforces.com/contest/1986/problem/A) | [C++20 (GCC 13-64)](./codeforces/1986/A.cpp) | `brute force` `geometry` `math` `sortings` `*800` | Jun/29/2024 11:24 | 
+22 | [A - Catch the Coin](https://codeforces.com/contest/1989/problem/A) | [C++20 (GCC 13-64)](./codeforces/1989/A.cpp) | `fft` `implementation` | Jun/29/2024 11:09 | 
+21 | [A - Alice and Books](https://codeforces.com/contest/1978/problem/A) | [C++20 (GCC 13-64)](./codeforces/1978/A.cpp) | `constructive algorithms` `greedy` `sortings` `*800` | Jun/16/2024 15:34 | 
 20 | [A - Contest Proposal](https://codeforces.com/contest/1972/problem/A) | [C++20 (GCC 13-64)](./codeforces/1972/A.cpp) | `brute force` `greedy` `two pointers` `*800` | Jun/15/2024 13:21 | 
 19 | [B - Maximum Multiple Sum](https://codeforces.com/contest/1985/problem/B) | [C++20 (GCC 13-64)](./codeforces/1985/B.cpp) | `brute force` `math` `number theory` | Jun/11/2024 20:59 | 
 18 | [A - Creating Words](https://codeforces.com/contest/1985/problem/A) | [C++20 (GCC 13-64)](./codeforces/1985/A.cpp) | `implementation` `strings` | Jun/11/2024 20:53 | 

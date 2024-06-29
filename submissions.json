@@ -369,6 +369,25 @@
     ],
     "timestamp": "Jun/15/2024 13:21"
   },
+  "CF267948752": {
+    "contest_id": 1986,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces\\1986\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "X Axis",
+    "problem_url": "https://codeforces.com/contest/1986/problem/A",
+    "submission_id": "CF267948752",
+    "submission_url": "https://codeforces.com/contest/1986/submission/267948752",
+    "tags": [
+      "brute force",
+      "geometry",
+      "math",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Jun/29/2024 11:24"
+  },
   "CF267963458": {
     "contest_id": 1984,
     "language": "C++20 (GCC 13-64)",

@@ -369,6 +369,22 @@
     ],
     "timestamp": "Jun/15/2024 13:21"
   },
+  "CF267947504": {
+    "contest_id": 1989,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces\\1989\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Catch the Coin",
+    "problem_url": "https://codeforces.com/contest/1989/problem/A",
+    "submission_id": "CF267947504",
+    "submission_url": "https://codeforces.com/contest/1989/submission/267947504",
+    "tags": [
+      "fft",
+      "implementation"
+    ],
+    "timestamp": "Jun/29/2024 11:09"
+  },
   "CF267948752": {
     "contest_id": 1986,
     "language": "C++20 (GCC 13-64)",

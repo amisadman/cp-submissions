@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+26 | [A - Upload More RAM](https://codeforces.com/contest/1987/problem/A) | [C++20 (GCC 13-64)](./codeforces/1987/A.cpp) | `greedy` `math` | Jul/01/2024 07:53 | 
 25 | [A - Tricky Sum](https://codeforces.com/contest/598/problem/A) | [C++20 (GCC 13-64)](./codeforces/598/A.cpp) | `math` `*900` | Jun/30/2024 14:25 | 
 24 | [A - Strange Splitting](https://codeforces.com/contest/1984/problem/A) | [C++20 (GCC 13-64)](./codeforces/1984/A.cpp) | `constructive algorithms` `*800` | Jun/29/2024 13:51 | 
 23 | [A - X Axis](https://codeforces.com/contest/1986/problem/A) | [C++20 (GCC 13-64)](./codeforces/1986/A.cpp) | `brute force` `geometry` `math` `sortings` `*800` | Jun/29/2024 11:24 | 
